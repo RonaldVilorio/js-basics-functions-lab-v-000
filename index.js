@@ -10,6 +10,7 @@ function distanceFromHqInFeet(distance){
 function distanceTravelledInFeet(distanceA,distanceB){
   // value a is distance b to c
   // value b is distance a to b
+  if distanceB
   return distanceFromHqInFeet(distanceB) * 3
 
 
