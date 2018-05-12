@@ -17,5 +17,6 @@ function distanceTravelledInFeet(distanceA,distanceB){
   }
 }
 function calculatesFarePrice(start,destination){
-  
+  distance_traveled = distanceTravelledInFeet(start,destination)
+  return distance_traveled
 }
