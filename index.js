@@ -13,7 +13,7 @@ function distanceTravelledInFeet(distanceA,distanceB){
   if (distanceB){
     return distanceFromHqInFeet(distanceB) * 3
   }else if (distanceA){
-    return distanceFromHqInFeet(distanceA) 
+    return distanceFromHqInFeet(distanceA) * 5
   }
 
 
