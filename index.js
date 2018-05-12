@@ -10,7 +10,7 @@ function distanceFromHqInFeet(distance){
 function distanceTravelledInFeet(distanceA,distanceB){
   // value a is distance b to c
   // value b is distance a to b
-  return distance - 42
+
 
 
 }
