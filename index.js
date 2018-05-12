@@ -17,5 +17,5 @@ function distanceTravelledInFeet(distanceA,distanceB){
   }
 }
 function calculatesFarePrice(start,destination){
-  return start
+  return destination
 }
