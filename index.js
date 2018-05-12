@@ -7,15 +7,10 @@ function distanceFromHqInBlocks(distance){
 function distanceFromHqInFeet(distance){
   return distanceFromHqInBlocks(distance) * 264
 }
-function distanceTravelledInFeet(distanceA,distanceB){
+function distanceTravelledInFeet(distance){
   // value a is distance b to c
   // value b is distance a to b
-  if (distanceA){
-    return distanceFromHqInFeet(distanceA) * 5
-  }else if (distanceB){
-    return distanceTravelledInFeet(distanceB) * 2
-  }
-
+  return d
 
 
 }
