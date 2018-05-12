@@ -13,10 +13,10 @@ function distanceTravelledInFeet(distanceA,distanceB){
   if (distanceA){
     return distanceFromHqInFeet(distanceA)
   }else if (distanceB){
-    
+    return distanceTravelledInFeet(distanceB)
   }
-  
-    
+
+
 
 
 
