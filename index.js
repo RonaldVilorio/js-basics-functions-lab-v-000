@@ -15,7 +15,7 @@ function distanceTravelledInFeet(distanceA,distanceB){
   }else{
     return distanceFromHqInFeet(distanceA) - distanceFromHqInFeet(distanceB)
   }
-
-
-
+}
+function calculatesFarePrice(start,destination){
+  
 }
